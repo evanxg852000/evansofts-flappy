@@ -198,7 +198,7 @@ var FlappyBirdGame={
 		},
 		fonts:{},
 		sounds:{
-			"music":"src/medias/music.m4a",
+			"music":"src/medias/music.ogg",
 			"jump":"src/medias/jump.m4a",
 			"explosion":"src/medias/explosion.m4a"
 		}
